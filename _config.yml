@@ -62,7 +62,7 @@ plugins:
     lightgallery: true # options: true, false
     justifiedgallery: true # options: true, false
     google_analytics: UA-92829205-1 # enter the tracking ID for your Google Analytics
-    google_site_verification: DehKF0NeWH67s5STPyKwAjZhYN4Xjl6GXBFVX09eGLw # enter Google site verification code
+    google_site_verification: Ur4ybMR7WdDSyMhCyxTRqrJzq9NWae48yUk-lS8uCP4 # enter Google site verification code
     baidu_analytics: # enter Baidu Analytics hash key
 
 # Miscellaneous
