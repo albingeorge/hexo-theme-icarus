@@ -50,7 +50,7 @@ search:
 
 # Comment
 comment:
-    disqus:  # enter disqus shortname here
+    disqus: http-alb1n-com # enter disqus shortname here
     duoshuo: # enter duoshuo shortname here
     youyan: # enter youyan uid here
 
